@@ -12,3 +12,5 @@ Split markdown files into chapters at a given heading level.
 ```
 
 You don't even need to clone this repo!
+
+The packaging heavy lifting is done by [pyproject.nix](https://nix-community.github.io/pyproject.nix/), go to that link to see what else you can do.
